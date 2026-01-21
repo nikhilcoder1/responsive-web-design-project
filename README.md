@@ -24,3 +24,23 @@ The website is fully responsive and works across:
 - Mobile devices
 
 ## 📂 Project Structure
+responsive-web-design-project/
+│
+├── index.html # Main HTML file
+├── style.css # Main stylesheet
+├── assets/
+│ └── images/ # Project images and assets
+│
+└── README.md # Project documentation
+
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/responsive-web-design-project.git
+2. Navigate to the project folder.
+
+3. Open index.html in any modern web browser.

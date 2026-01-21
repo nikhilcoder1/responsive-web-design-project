@@ -24,7 +24,7 @@ The website is fully responsive and works across:
 - Mobile devices
 
 ## 📂 Project Structure
-responsive-web-design-project/
+``` responsive-web-design-project/
 │
 ├── index.html # Main HTML file
 ├── style.css # Main stylesheet
@@ -32,7 +32,7 @@ responsive-web-design-project/
 │ └── images/ # Project images and assets
 │
 └── README.md # Project documentation
-
+```
 
 ---
 
